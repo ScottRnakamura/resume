@@ -23,6 +23,7 @@ body {
   .date-range {
     font-family: sans-serif;
     font-style: italic;
+    align-self: flex-end;
   }
 
   p {
@@ -36,4 +37,9 @@ body {
   h3 {
     font-family: serif;
     margin-bottom: 0.5em;
+  }
+
+  .dated-div {
+    display: flex;
+    justify-content: space-between;
   }
