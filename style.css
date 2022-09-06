@@ -12,6 +12,7 @@ body {
     flex: 1 1 200px;
     padding: 1em;
     line-height: 1.5em;
+    background-color: bisque;
   }
   
   div#left-column {
@@ -19,6 +20,8 @@ body {
     flex: 1 1 400px;
     padding: 1em;
     line-height: 1em;
+    background-color: bisque;
+
   }
   .date-range {
     font-family: sans-serif;
@@ -30,7 +33,6 @@ body {
     font-family: serif;
     margin-bottom: 0.5em;
     margin-top: 0%;
-
   }
 
   h2,
@@ -43,3 +45,4 @@ body {
     display: flex;
     justify-content: space-between;
   }
+
